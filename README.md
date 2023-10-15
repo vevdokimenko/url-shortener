@@ -6,6 +6,7 @@
 - REST-based service
 - Mongodb + Redis
 - Docker compose
+- Tests included
 
 ## Public API
 > REST API BaseURL: localhost:8080/api/v1
