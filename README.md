@@ -39,3 +39,9 @@
     "result": "https://google.com"
 }
 ```
+
+## Launch service
+
+- `docker-compose up`
+- `mvn clean package`
+- `java -jar target/url-shortener-0.0.1-SNAPSHOT.jar`
